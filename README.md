@@ -11,6 +11,7 @@ Maximum images is 1000 but you can configure it later.
 1. Create a Discord bot and put your token under `.env` file:
 ```bash
 DISCORD_BOT_TOKEN=<your_token_here>
+SERVER_ID=<your_server_id>
 ```
 2. Invite your discord bot in your own server.
 3. Run the DiscordApp project via `dotnet run -c Release`.
