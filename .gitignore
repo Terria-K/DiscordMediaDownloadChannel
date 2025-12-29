@@ -1,0 +1,8 @@
+Result/
+bin/
+obj/
+.vscode/
+.vs/
+.rider/
+
+.env
