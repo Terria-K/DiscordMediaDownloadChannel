@@ -1,4 +1,3 @@
 <Solution>
   <Project Path="DiscordApp/DiscordApp.csproj" />
-  <Project Path="DiscordApp/FetchImages.csproj" />
 </Solution>
